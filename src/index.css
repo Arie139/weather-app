@@ -41,6 +41,24 @@ h1 {
   z-index: -1;
 }
 
+.app .search {
+  text-align: center;
+  padding: 1rem;
+}
+
+.app input {
+  padding: .7rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  border: 1px solid rgba(255,255,255, 0.8);
+  background: rgba(255,255,255, 0.1);
+  color: #f8f8f8;
+}
+
+::placeholder {
+  color: #f8f8f8;
+}
+
 .container {
   max-width: 700px;
   height: 700px;
@@ -53,7 +71,7 @@ h1 {
   justify-content: space-between;
 }
 
-.app top {
+.app .top {
   width: 100%;
   margin: 1rem auto;
 }
@@ -62,7 +80,7 @@ h1 {
   position: relative;
   right: -90%;
   transform-origin: 0 0;
-  transform: rotate(270deg);
+  transform: rotate(269deg);
 }
 
 .app .bottom {
@@ -73,7 +91,7 @@ h1 {
   margin: 1rem auto;
   padding: 1rem;
   border-radius: 12px;
-  background-color: rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255, 0.2);
 }
 
 .bold {
