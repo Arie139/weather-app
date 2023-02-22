@@ -9,6 +9,7 @@ A full-stack weather application using React on the front end and Openweathermap
 ## Stack
 - `ReactJS`
 - `Javascript`
+- - `Axios`
 
 ## API
 
