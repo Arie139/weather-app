@@ -8,7 +8,7 @@ A full-stack weather application that allows the user to search for the weather 
 
 ## Stack
 
-- Front-end: `HTML, Tailwind CSS and React`
+- Front-end: `HTML, CSS and React`
 - Back-end: `NodeJS and ExpressJS`
 
 ## API
