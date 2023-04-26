@@ -1,15 +1,15 @@
 # Weater Application
 
-A full-stack weather application using React on the front end and Openweathermap API for the backend technology.
+A full-stack weather application that allows the user to search for the weather of any city in the world.
 
 ### Weather App
 
 ![screenshot of App](https://github.com/Arie139/weather-app/blob/main/src/assets/weather_app.png)
 
 ## Stack
-- `ReactJS`
-- `Javascript`
-- `Axios`
+
+- Front-end: `HTML, Tailwind CSS and React`
+- Back-end: `NodeJS and ExpressJS`
 
 ## API
 
